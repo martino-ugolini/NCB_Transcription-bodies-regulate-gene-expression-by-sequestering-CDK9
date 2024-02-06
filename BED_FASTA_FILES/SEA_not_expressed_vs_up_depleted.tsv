@@ -1,0 +1,25 @@
+RANK	DB	ID	ALT_ID	CONSENSUS	TP	TP%	FP	FP%	ENR_RATIO	SCORE_THR	PVALUE	LOG_PVALUE	EVALUE	LOG_EVALUE	QVALUE	LOG_QVALUE
+1	reduced_database_meme_for_motif_analysis_SEA.txt	MA1969.1	THRA	NYTGTGTCCTCABRTGACCTYWBB	5229	66.24	347	54.65	1.21	5.3	4.08e-9	-19.32	3.39e-7	-14.90	3.39e-7	-14.90
+2	reduced_database_meme_for_motif_analysis_SEA.txt	MA1532.2	NR1D2	TRGGTYAGTRGGTCA	6252	79.20	445	70.08	1.13	1.2	1.32e-7	-15.84	1.10e-5	-11.42	5.49e-6	-12.11
+3	reduced_database_meme_for_motif_analysis_SEA.txt	MA0473.3	ELF1	RDVCAGGAAGTGVN	1056	13.38	59	9.29	1.42	14	1.42e-3	-6.56	1.17e-1	-2.14	3.92e-2	-3.24
+4	reduced_database_meme_for_motif_analysis_SEA.txt	MA0592.3	ESRRA	NBTCAAGGTCAHN	7118	90.17	549	86.46	1.04	7.9	2.42e-3	-6.02	2.01e-1	-1.60	5.03e-2	-2.99
+5	reduced_database_meme_for_motif_analysis_SEA.txt	MA1541.1	NR6A1	NYCAAGKTCAAGKTCAN	1015	12.86	60	9.45	1.34	13	6.18e-3	-5.09	5.13e-1	-0.67	1.03e-1	-2.28
+6	reduced_database_meme_for_motif_analysis_SEA.txt	MA0137.3	STAT1	TTTCYRGGAAA	5350	67.77	400	62.99	1.07	7.7	7.99e-3	-4.83	6.63e-1	-0.41	1.10e-1	-2.20
+7	reduced_database_meme_for_motif_analysis_SEA.txt	MA0728.1	Nr2F6	RAGGTCAARAGGTCA	720	9.12	42	6.61	1.35	2.3	1.70e-2	-4.08	1.41e0	0.34	2.01e-1	-1.60
+8	reduced_database_meme_for_motif_analysis_SEA.txt	MA1484.1	ETS2	DACCGGAAGY	5403	68.44	409	64.41	1.06	8.1	2.06e-2	-3.88	1.71e0	0.54	2.14e-1	-1.54
+9	reduced_database_meme_for_motif_analysis_SEA.txt	MA1964.1	SMAD2	NBCCAGACDN	1212	15.35	79	12.44	1.22	13	2.58e-2	-3.66	2.14e0	0.76	2.38e-1	-1.43
+10	reduced_database_meme_for_motif_analysis_SEA.txt	MA1421.1	TCF7L1	AAAGATCAAAGG	3151	39.92	229	36.06	1.1	9.9	3.04e-2	-3.49	2.53e0	0.93	2.53e-1	-1.38
+11	reduced_database_meme_for_motif_analysis_SEA.txt	MA0796.1	TGIF1	TGACAGCTGTCA	3018	38.23	220	34.65	1.1	0.0049	3.96e-2	-3.23	3.29e0	1.19	2.87e-1	-1.25
+12	reduced_database_meme_for_motif_analysis_SEA.txt	MA0147.3	MYC	NNCCACGTGCNB	7527	95.35	595	93.70	1.02	6.5	4.15e-2	-3.18	3.44e0	1.24	2.87e-1	-1.25
+13	reduced_database_meme_for_motif_analysis_SEA.txt	MA0113.3	NR3C1	DRGWACAYDRTGTWCYH	4274	54.14	323	50.87	1.06	0.27	6.05e-2	-2.81	5.02e0	1.61	3.74e-1	-0.98
+14	reduced_database_meme_for_motif_analysis_SEA.txt	MA1116.1	RBPJ	BVTGGGAANN	3967	50.25	299	47.09	1.07	12	6.75e-2	-2.70	5.61e0	1.72	3.74e-1	-0.98
+15	reduced_database_meme_for_motif_analysis_SEA.txt	MA0591.1	Bach1::Mafk	RSSATGACTCAGCAB	2390	30.28	174	27.40	1.1	7.9	6.93e-2	-2.67	5.75e0	1.75	3.74e-1	-0.98
+16	reduced_database_meme_for_motif_analysis_SEA.txt	MA1625.1	Stat5b	NNNTTCCCAGAANNN	4392	55.64	334	52.60	1.06	9.8	7.50e-2	-2.59	6.23e0	1.83	3.74e-1	-0.98
+17	reduced_database_meme_for_motif_analysis_SEA.txt	MA1539.1	NR2F6	RAGGTCANTGACCTY	3919	49.65	296	46.61	1.06	2.3	7.65e-2	-2.57	6.35e0	1.85	3.74e-1	-0.98
+18	reduced_database_meme_for_motif_analysis_SEA.txt	MA0062.3	GABPA	NNCACTTCCTGTNN	1153	14.61	81	12.76	1.13	14	1.11e-1	-2.20	9.19e0	2.22	4.84e-1	-0.73
+19	reduced_database_meme_for_motif_analysis_SEA.txt	Pou5f1_pre-MBT_Leichsenring	Pou5f1_pre-MBT_Leichsenring	WCATTTGCATDWNMA	2207	27.96	163	25.67	1.08	13	1.16e-1	-2.15	9.63e0	2.26	4.84e-1	-0.73
+20	reduced_database_meme_for_motif_analysis_SEA.txt	MA0730.1	RARA	AGGTCAHSYAAAGGTCA	700	8.87	47	7.40	1.18	8.6	1.17e-1	-2.15	9.68e0	2.27	4.84e-1	-0.73
+
+# SEA (Simple Enrichment Analysis): Version 5.5.3 compiled on Jun 15 2023 at 16:41:42
+# The format of this file is described at https://meme-suite.org/meme/doc/sea-output-format.html.
+# sea --verbosity 1 --oc . --thresh 10.0 --align center --p 2000_not_expressed.fa --n 2000_upregulated.fa --m reduced_database_meme_for_motif_analysis_SEA.txt
