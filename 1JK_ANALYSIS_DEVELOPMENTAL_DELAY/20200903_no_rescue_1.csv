@@ -1,0 +1,65 @@
+﻿Experiment;Treatment;Embryo;Genotype;Feature;Frame
+20200903_no_rescue_1;no rescue;1;miR430 -/-;100% Epiboly;74
+20200903_no_rescue_1;no rescue;1;miR430 -/-;Kupffer's vesicle;83
+20200903_no_rescue_1;no rescue;2;miR430 +/-;100% Epiboly;67
+20200903_no_rescue_1;no rescue;2;miR430 +/-;Kupffer's vesicle;74
+20200903_no_rescue_1;no rescue;2;miR430 +/-;Onset of movement;123
+20200903_no_rescue_1;no rescue;3;miR430 -/-;100% Epiboly;73
+20200903_no_rescue_1;no rescue;5;miR430 -/-;100% Epiboly;74
+20200903_no_rescue_1;no rescue;5;miR430 -/-;Kupffer's vesicle;83
+20200903_no_rescue_1;no rescue;5;miR430 -/-;Onset of movement;137
+20200903_no_rescue_1;no rescue;6;miR430 +/-;100% Epiboly;65
+20200903_no_rescue_1;no rescue;6;miR430 +/-;Kupffer's vesicle;73
+20200903_no_rescue_1;no rescue;6;miR430 +/-;Onset of movement;120
+20200903_no_rescue_1;no rescue;8;miR430 +/+;100% Epiboly;63
+20200903_no_rescue_1;no rescue;8;miR430 +/+;Kupffer's vesicle;74
+20200903_no_rescue_1;no rescue;8;miR430 +/+;Onset of movement;121
+20200903_no_rescue_1;no rescue;9;miR430 -/-;100% Epiboly;75
+20200903_no_rescue_1;no rescue;10;miR430 +/-;100% Epiboly;64
+20200903_no_rescue_1;no rescue;10;miR430 +/-;Onset of movement;124
+20200903_no_rescue_1;no rescue;11;miR430 +/-;100% Epiboly;71
+20200903_no_rescue_1;no rescue;11;miR430 +/-;Kupffer's vesicle;79
+20200903_no_rescue_1;no rescue;11;miR430 +/-;Onset of movement;123
+20200903_no_rescue_1;no rescue;12;miR430 +/-;100% Epiboly;66
+20200903_no_rescue_1;no rescue;12;miR430 +/-;Kupffer's vesicle;78
+20200903_no_rescue_1;no rescue;12;miR430 +/-;Onset of movement;120
+20200903_no_rescue_1;no rescue;14;miR430 +/+;100% Epiboly;64
+20200903_no_rescue_1;no rescue;14;miR430 +/+;Kupffer's vesicle;77
+20200903_no_rescue_1;no rescue;14;miR430 +/+;Onset of movement;121
+20200903_no_rescue_1;no rescue;15;miR430 +/-;100% Epiboly;64
+20200903_no_rescue_1;no rescue;15;miR430 +/-;Kupffer's vesicle;76
+20200903_no_rescue_1;no rescue;15;miR430 +/-;Onset of movement;119
+20200903_no_rescue_1;no rescue;16;miR430 +/+;100% Epiboly;65
+20200903_no_rescue_1;no rescue;16;miR430 +/+;Kupffer's vesicle;73
+20200903_no_rescue_1;no rescue;16;miR430 +/+;Onset of movement;118
+20200903_no_rescue_1;no rescue;17;miR430 +/-;100% Epiboly;64
+20200903_no_rescue_1;no rescue;17;miR430 +/-;Kupffer's vesicle;74
+20200903_no_rescue_1;no rescue;17;miR430 +/-;Onset of movement;121
+20200903_no_rescue_1;no rescue;19;miR430 -/-;100% Epiboly;72
+20200903_no_rescue_1;no rescue;19;miR430 -/-;Kupffer's vesicle;83
+20200903_no_rescue_1;no rescue;19;miR430 -/-;Onset of movement;133
+20200903_no_rescue_1;no rescue;20;miR430 +/+;100% Epiboly;69
+20200903_no_rescue_1;no rescue;20;miR430 +/+;Kupffer's vesicle;74
+20200903_no_rescue_1;no rescue;20;miR430 +/+;Onset of movement;125
+20200903_no_rescue_1;no rescue;21;miR430 -/-;100% Epiboly;66
+20200903_no_rescue_1;no rescue;21;miR430 -/-;Kupffer's vesicle;78
+20200903_no_rescue_1;no rescue;22;miR430 +/-;100% Epiboly;63
+20200903_no_rescue_1;no rescue;22;miR430 +/-;Onset of movement;123
+20200903_no_rescue_1;no rescue;23;miR430 -/-;100% Epiboly;74
+20200903_no_rescue_1;no rescue;23;miR430 -/-;Kupffer's vesicle;86
+20200903_no_rescue_1;no rescue;24;miR430 +/-;100% Epiboly;64
+20200903_no_rescue_1;no rescue;24;miR430 +/-;Kupffer's vesicle;74
+20200903_no_rescue_1;no rescue;24;miR430 +/-;Onset of movement;116
+20200903_no_rescue_1;no rescue;25;miR430 +/-;100% Epiboly;61
+20200903_no_rescue_1;no rescue;25;miR430 +/-;Onset of movement;119
+20200903_no_rescue_1;no rescue;26;miR430 +/+;100% Epiboly;63
+20200903_no_rescue_1;no rescue;26;miR430 +/+;Kupffer's vesicle;75
+20200903_no_rescue_1;no rescue;26;miR430 +/+;Onset of movement;119
+20200903_no_rescue_1;no rescue;28;miR430 +/+;100% Epiboly;63
+20200903_no_rescue_1;no rescue;28;miR430 +/+;Kupffer's vesicle;72
+20200903_no_rescue_1;no rescue;28;miR430 +/+;Onset of movement;118
+20200903_no_rescue_1;no rescue;29;miR430 +/-;100% Epiboly;62
+20200903_no_rescue_1;no rescue;29;miR430 +/-;Onset of movement;119
+20200903_no_rescue_1;no rescue;30;miR430 +/+;100% Epiboly;63
+20200903_no_rescue_1;no rescue;30;miR430 +/+;Kupffer's vesicle;73
+20200903_no_rescue_1;no rescue;30;miR430 +/+;Onset of movement;116
